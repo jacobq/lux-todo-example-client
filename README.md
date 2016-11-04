@@ -1,7 +1,9 @@
 # Lux-todo-example-client
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is a very simple Ember application to help demonstrate the
+[Lux](https://github.com/postlight/lux) framework's
+[todos example](https://github.com/postlight/lux/tree/master/examples/todo). 
+
 
 ## Prerequisites
 
@@ -22,32 +24,10 @@ You will need the following things properly installed on your computer.
 
 ## Running / Development
 
+### Start Lux's todos demo
+* Follow instructions in Lux repo to start todo server on http://localhost:4000
+
+### Start this application
 * `ember serve`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
-
-### Code Generators
-
-Make use of the many generators for code, try `ember help generate` for more details
-
-### Running Tests
-
-* `ember test`
-* `ember test --server`
-
-### Building
-
-* `ember build` (development)
-* `ember build --environment production` (production)
-
-### Deploying
-
-Specify what it takes to deploy your app.
-
-## Further Reading / Useful Links
-
-* [ember.js](http://emberjs.com/)
-* [ember-cli](http://ember-cli.com/)
-* Development Browser Extensions
-  * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
-  * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
 
